@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h2 align="center">Contact Me On! </h2>
 
 <p align="center">
-  <a margin-right=40px href="https://www.linkedin.com/in/mhtaldmr/">
+  <a href="https://www.linkedin.com/in/mhtaldmr/">
     <img align="center" alt="Mali's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://twitter.com/mhtaldmr">
