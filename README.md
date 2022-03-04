@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <p href="#" align="center"> 
-     I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have   been exploring the magic inside the .Net Developer world as well.
+     I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have   been exploring the magic inside the .Net and OOP world as well.
   </p>
   <br>
   <p href="#" align="center">
