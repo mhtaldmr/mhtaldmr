@@ -46,9 +46,9 @@
 
 <h3 align="center">Or</h3>
 <p align="center">
-  <a align="center">Formula 1</h3><br>
-  <a align="center">Lord of the Rings</h3><br>
-  <a align="center">Fitness and Kickbox</h3>
+  <a align="center">Formula 1 🏎</a><br>
+  <a align="center">Lord of the Rings 🧙</a><br>
+  <a align="center">Fitness and Kickbox 🏋🏻</a>
 </p>
 <br>
 
