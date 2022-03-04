@@ -26,7 +26,6 @@
 <br>
 
 <h2 align="center"> We Can Talk About!  🤘 </h2>
-<br>
 <p align="center">
 <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -40,6 +39,7 @@
 <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </p>
 <br>
+
 <br>
 <h3 align="center"> What I Have Been Using So Far! 💻</h3>
 <p align="center">
@@ -47,7 +47,3 @@
     <img  href="#" align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
   </a>
 </p>
-<!--
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtaldmr&count_private=true_icons=true&theme=tokyonight">
--->
