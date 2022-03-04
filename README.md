@@ -51,5 +51,5 @@
 
 
 <p align="center" href="https://mhtaldmr.github.io/resume/index.html">
-    <img align="center" alt="Mali's site" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+     <img height=20 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.gif" alt="mali" />
 </p>
