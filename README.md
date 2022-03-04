@@ -40,9 +40,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<h2 align="center">What I Have Been Using So Far! </h2>
+<p align="center">
+  <a href="#">
+    <img align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
+  </a>
+</p>
 <!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhtaldmr&count_private=true_icons=true&theme=tokyonight">
 -->
