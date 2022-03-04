@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-  <img width=350 height=350 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main.gif" alt="mali" />
+  <img src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main.gif" alt="mali" />
   </a>
 </p>
 
