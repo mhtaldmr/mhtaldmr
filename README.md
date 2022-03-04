@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<h2 align="center">Contact me on </h2>
+<h2 align="center">Contact Me On! </h2>
 
 
 <p align="center">
