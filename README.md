@@ -46,16 +46,9 @@
 
 <h3 align="center">Or</h3>
 <p align="center">
-<ul>
-  <li align="center">Project based software support for multinational companies</li>
-  <li align="center">Being electrical supervisor on productivity improvement projects</li>
-  <li align="center">Automation solutions for production machines</li>
-</ul> |
-  
-  
+  <a align="center">Formula 1</h3><br>
   <a align="center">Lord of the Rings</h3><br>
-<a align="center">Formula 1</h3><br>
-<a align="center">Fitness and Kickbox</h3>
+  <a align="center">Fitness and Kickbox</h3>
 </p>
 <br>
 
