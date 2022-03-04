@@ -14,6 +14,7 @@ I am highly motivated and interested in working on control, software, automation
   </a>
 </p>
 <br>
+<br>
 
 <h2 align="center">Contact Me On! </h2>
 
