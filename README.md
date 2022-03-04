@@ -43,11 +43,17 @@
   <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </p>
-<br>
 
 <h3 align="center">Or</h3>
 <p align="center">
-<a align="center">Lord of the Rings</h3><br>
+<ul>
+  <li align="center">Project based software support for multinational companies</li>
+  <li align="center">Being electrical supervisor on productivity improvement projects</li>
+  <li align="center">Automation solutions for production machines</li>
+</ul> |
+  
+  
+  <a align="center">Lord of the Rings</h3><br>
 <a align="center">Formula 1</h3><br>
 <a align="center">Fitness and Kickbox</h3>
 </p>
