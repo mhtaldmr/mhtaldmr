@@ -30,7 +30,6 @@
 </p>
 <br>
 
-<br>
 <h2 align="center"> We Can Talk About!  🤘 </h2>
 <p align="center">
   <code><img href="#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -54,10 +53,3 @@
   </a>
 </p>
 <br>
-
-
-<p align="center" >
- <a href="https://mhtaldmr.github.io/resume/index.html" >
-  <img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
-  </a>
-</p>
