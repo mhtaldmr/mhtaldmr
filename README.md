@@ -47,3 +47,9 @@
     <img  href="#" align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
   </a>
 </p>
+
+
+
+<a href="https://mhtaldmr.github.io/resume/index.html">
+    <img  align="center" alt="Mali's site" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+</a>
