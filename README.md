@@ -22,6 +22,8 @@
     <img align="center" alt="Mali's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
   <br>
+  
+  <br>
   <a href="https://mhtaldmr.github.io/resume/index.html" >
   <img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
   </a>
