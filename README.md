@@ -1,9 +1,9 @@
-//### Here is What I'm Working On! 👋
-<h1 align="center">Hi 👋, How is it Going? </h1>
-<!--
+<!-- ### Here is What I'm Working On! 👋
 **mhtaldmr/mhtaldmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<h1 align="center">Hi 👋, How is it Going? </h1>
+
 <p align="center">
 - 🔭 I’m currently working on ... Tutorials <br>
 - 🌱 I’m currently learning ... .Net Core <br>
