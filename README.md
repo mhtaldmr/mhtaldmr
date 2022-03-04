@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Contact Me On! </h2>
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
     <img align="left" alt="Mali's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
     <img align="left" alt="Mali's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
-
+</p>
 
 
 <!--
