@@ -5,6 +5,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm M. Ali </h1>
 
 <p align="center">
+  <a href="#" > 
+  About me <br>
+I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have been into the mobile application business as well. I am a versatile and fast learner engineer who is ready for all the challenges that come next!
+
+
+  </a>
+  
   <a href="#">
   <img height=350 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main2.gif" alt="mali" />
   </a>
