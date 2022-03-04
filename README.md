@@ -21,6 +21,10 @@
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
     <img align="center" alt="Mali's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
+  <br>
+  <a href="https://mhtaldmr.github.io/resume/index.html" >
+  <img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
+  </a>
 </p>
 <br>
 
