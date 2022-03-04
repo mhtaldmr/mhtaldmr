@@ -51,5 +51,7 @@
 
 
 <p align="center" >
-  <img href="https://mhtaldmr.github.io/resume/index.html" height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
+ <a href="https://mhtaldmr.github.io/resume/index.html">
+  <img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
+  </a>
 </p>
