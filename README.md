@@ -52,7 +52,6 @@
 </p>
 <br>
 
-<br>
 <h3 align="center"> What I Have Been Using So Far! 💻</h3>
 <p align="center">
   <a href="#">
