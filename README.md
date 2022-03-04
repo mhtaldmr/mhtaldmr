@@ -19,7 +19,7 @@
     <img  align="center" alt="Mali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> 
   </a>
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
-    <img align="center" alt="Mali's Spotify" width="px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    <img align="center" alt="Mali's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </p>
 <br>
