@@ -47,9 +47,9 @@
     <img  href="#" align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
   </a>
 </p>
-
+<br>
 
 
 <p align="center" href="https://mhtaldmr.github.io/resume/index.html">
-     <img height=20 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
+  <img height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
 </p>
