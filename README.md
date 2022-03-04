@@ -50,6 +50,6 @@
 
 
 
-<a href="https://mhtaldmr.github.io/resume/index.html">
-    <img  align="center" alt="Mali's site" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+<a align="center" href="https://mhtaldmr.github.io/resume/index.html">
+    <img align="center" alt="Mali's site" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
 </a>
