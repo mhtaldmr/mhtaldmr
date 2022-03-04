@@ -9,6 +9,7 @@ Here are some ideas to get you started:
   <img height=350 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main.gif" alt="mali" />
   </a>
 </p>
+<br>
 
 <a href="https://twitter.com/mhtaldmr">
   <img align="center" alt="Mali | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
   <img align="center" alt="Mali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+<br>
 <p align="center">
 - 🔭 I’m currently working on ... Tutorials <br>
 - 🌱 I’m currently learning ... .Net Core <br>
