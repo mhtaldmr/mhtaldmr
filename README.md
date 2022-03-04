@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<h2 align="center">Contact me on </h2>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
     <img align="center" alt="Mali's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
