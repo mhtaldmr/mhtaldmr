@@ -46,10 +46,10 @@
 <br>
 
 <br>
-<h2 align="center">Or Just Text Me About</h2>
-<h3 align="center">Financial News</h3>
-<h3 align="center">Home Automation</h3>
-<h3 align="center">Comedy Movies</h3>
+<h3 align="center">Or </h3>
+<a align="center">Lord of the Rings</h3><br>
+<a align="center">Formula 1</h3><br>
+<a align="center">Fitness and Kickbox</h3>
 <br>
 
 <br>
