@@ -46,6 +46,13 @@
 <br>
 
 <br>
+<h2 align="center">Or Just Text Me About</h2>
+<h3 align="center">Financial News</h3>
+<h3 align="center">Home Automation</h3>
+<h3 align="center">Comedy Movies</h3>
+<br>
+
+<br>
 <h3 align="center"> What I Have Been Using So Far! 💻</h3>
 <p align="center">
   <a href="#">
