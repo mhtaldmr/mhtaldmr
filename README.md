@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Mali's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br>
+<br>
 <p align="center">
 - 🔭 I’m currently working on ... Tutorials <br>
 - 🌱 I’m currently learning ... .Net Core <br>
