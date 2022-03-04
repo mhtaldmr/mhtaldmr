@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </p>
 </p>
 
-<h2 align="center">Contact Me On! </h2>
+<h2 align="center"> 📫 Contact Me On! </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
@@ -39,8 +39,9 @@ Here are some ideas to get you started:
     <img align="center" alt="Mali's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </p>
+<br>
 
-<h2 align="center">What I Have Been Using So Far! </h2>
+<h3 align="center"> 🔭 What I Have Been Using So Far!  </h3>
 <p align="center">
   <a href="#">
     <img align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
