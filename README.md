@@ -5,6 +5,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm M. Ali </h1>
 
 <p align="center">
+  <a href="#">
+  <img width=350 height=350 src="https://github.com/mhtaldmr/mhtaldmr/src/main/src/main.gif" alt="mali" />
+  </a>
+</p>
+
+
+<p align="center">
 - 🔭 I’m currently working on ... Tutorials <br>
 - 🌱 I’m currently learning ... .Net Core <br>
 - 👯 I’m looking to collaborate on ... Vue.js <br>
