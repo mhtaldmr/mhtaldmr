@@ -5,14 +5,14 @@
 Here are some ideas to get you started:
 -->
 <p align="center">
-- 🔭 I’m currently working on ... Tutorials
-- 🌱 I’m currently learning ... .Net Core
-- 👯 I’m looking to collaborate on ... Vue.js
-- 🤔 I’m looking for help with ... Data Structures
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/mhtaldmr/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm Mickey Mouse. They don't know who's inside the suit.
+- 🔭 I’m currently working on ... Tutorials <br>
+- 🌱 I’m currently learning ... .Net Core <br>
+- 👯 I’m looking to collaborate on ... Vue.js <br>
+- 🤔 I’m looking for help with ... Data Structures <br>
+- 💬 Ask me about ... Anything <br>
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/mhtaldmr/) <br>
+- 😄 Pronouns: ... He/Him <br>
+- ⚡ Fun fact: ... I'm Mickey Mouse. They don't know who's inside the suit. <br>
 </p>
 
 <!--
