@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <p href="#" align="center"> 
-I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have been into the mobile application business as well. I am a versatile and fast learner engineer who is ready for all the challenges that come next!
+     I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have   been into the mobile application business as well. I am a versatile and fast learner engineer who is ready for all the challenges that come next!
   </p>
   <br>
   <p href="#" align="center">
