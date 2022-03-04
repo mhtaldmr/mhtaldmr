@@ -13,10 +13,8 @@ I am highly motivated and interested in working on control, software, automation
   <img height=350 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main2.gif" alt="mali" />
   </p>
 </p>
-<br>
 
 <h2 align="center">Contact Me On! </h2>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
@@ -29,7 +27,6 @@ I am highly motivated and interested in working on control, software, automation
     <img align="center" alt="Mali's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </p>
-<br>
 
 
 <p align="center">
