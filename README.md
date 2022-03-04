@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Vue.js
 - 🤔 I’m looking for help with ... Data Structures
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... LinedIn
+- 📫 How to reach me: ... LinekdIn
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Mickey Mouse. They don't know who's inside the suit.
 
