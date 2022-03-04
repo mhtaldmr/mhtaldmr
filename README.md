@@ -1,18 +1,19 @@
-### Hi there 👋
+### Here is What I'm Working On1 👋
 
 <!--
 **mhtaldmr/mhtaldmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Tutorials
+- 🌱 I’m currently learning ... .Net Core
+- 👯 I’m looking to collaborate on ... Vue.js
+- 🤔 I’m looking for help with ... Data Structures
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... LinedIn
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm Mickey Mouse. They don't know who's inside the suit.
+
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
 
