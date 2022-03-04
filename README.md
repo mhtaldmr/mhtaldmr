@@ -6,12 +6,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#" > 
-  About me <br>
 I am highly motivated and interested in working on control, software, automation, robotic systems in the project phase, commissioning and after-sale phases. Lately, I have been into the mobile application business as well. I am a versatile and fast learner engineer who is ready for all the challenges that come next!
-
-
   </a>
-  
+  <br>
   <a href="#">
   <img height=350 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/main2.gif" alt="mali" />
   </a>
