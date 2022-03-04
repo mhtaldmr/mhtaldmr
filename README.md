@@ -41,7 +41,7 @@
 </p>
 <br>
 <br>
-<h3 align="center"> 🔭 What I Have Been Using So Far! 💻</h3>
+<h3 align="center"> What I Have Been Using So Far! 💻</h3>
 <p align="center">
   <a href="#">
     <img  href="#" align="center" alt="Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtaldmr&layout=compact&theme=tokyonight">
