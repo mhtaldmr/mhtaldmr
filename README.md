@@ -2,7 +2,7 @@
 **mhtaldmr/mhtaldmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, How is it Going? </h1>
+<h1 align="center">Riders of Github 👋, What News from the World? </h1>
 
 <p align="center">
 - 🔭 I’m currently working on ... Tutorials <br>
