@@ -21,6 +21,10 @@
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
     <img align="center" alt="Mali's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
+   <a href="https://www.hackerrank.com/mht_alidemir">
+    <img  align="center" alt="Mali | HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /> 
+  </a>
+
   <br>
   
   <br>
