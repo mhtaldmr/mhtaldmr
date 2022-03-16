@@ -16,10 +16,10 @@
     <img  align="center" alt="Mali's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
   </a>
   <a href="https://twitter.com/mhtaldmr">
-    <img  align="center" alt="Mali | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> 
+    <img  align="center" alt="Mali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> 
   </a>
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
-    <img align="center" alt="Mali's Spotify" width="30px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
+    <img align="center" alt="Mali's Spotify" width="40px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
   </a>
    <a href="https://www.hackerrank.com/mht_alidemir">
     <img  align="center" alt="Mali | HackerRank" width="40px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/hackerrank.svg" /> 
