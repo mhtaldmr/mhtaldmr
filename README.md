@@ -14,23 +14,23 @@
 <h2 align="center">Contact Me on! 📧</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
-    <img  align="center" alt="Mali's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+    <code><img  align="center" alt="Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></code>  
   </a>
   <a href="https://twitter.com/mhtaldmr">
-    <img  align="center" alt="Mali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> 
+    <code><img  align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></code> 
   </a>
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
-    <img align="center" alt="Mali's Spotify" width="35px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" />
+    <code><img align="center" alt="Spotify" width="35px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png" /></code>
   </a>
    <a href="https://www.hackerrank.com/mht_alidemir">
-    <img  align="center" alt="Mali | HackerRank" width="40px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/hackerrank.svg" /> 
+    <code><img  align="center" alt="HackerRank" width="40px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/hackerrank.svg" /></code> 
   </a>
 
   <br>
   
   <br>
   <a href="https://mhtaldmr.github.io/resume/index.html" >
-  <img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" />
+  <code><img  height=25 src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/www.png" alt="mali" /></code>
   </a>
 </p>
 <br>
