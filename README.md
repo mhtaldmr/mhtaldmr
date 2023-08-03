@@ -14,10 +14,10 @@
 <h2 align="center">Contact Me on! 📧</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mhtaldmr/">
-    <code><img  align="center" alt="Linkedin" width="30px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/linkedin.svg" /></code>  
+    <code><img  align="center" alt="Linkedin" width="30px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/linkedIn.svg" /></code>  
   </a>
   <a href="https://twitter.com/mhtaldmr">
-    <code><img  align="center" alt="X" width="30px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/x.png" /></code> 
+    <code><img  align="center" alt="X" width="35px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/x.png" /></code> 
   </a>
   <a href="https://open.spotify.com/user/11150949009?si=e178f4ef318e4377">
     <code><img align="center" alt="Spotify" width="35px" src="https://github.com/mhtaldmr/mhtaldmr/blob/main/src/spotify.png" /></code>
